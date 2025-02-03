@@ -44,8 +44,14 @@ https://number-api-two.vercel.app/api/classify-number?number=341
   git clone https://github.com/Mj-devs/NumberApi
   ```
   
-- Install dependencies: npm install
-- Start the server: node index.js
+- Install dependencies: 
+    ```sh
+    npm install
+    ```
+- Start the server: 
+    ```sh
+    node index.js
+    ```
 
 ## Testing
 You can test the API using tools like Postman or cURL.
